@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+\t:*
+\r:*
+\tumblr_keys.py
